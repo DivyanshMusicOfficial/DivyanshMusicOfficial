@@ -80,7 +80,7 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 </div>
 <td>
        <div align="center">
-  <img src="https://cdn.dribbble.com/users/664777/screenshots/4828251/2018-07-15_spidey_ditko_800x600.gif" height="275" width="450" alt="Coding GIF" />
+  <img src="https://cdn.dribbble.com/users/664777/screenshots/4828251/2018-07-15_spidey_ditko_800x600.gif" height="275" width="425" alt="Coding GIF" />
 </div>
        </td>
     </td>
