@@ -1,11 +1,13 @@
 <table>
   <tr>
      <td>
-      <img height="300" width="600" src="https://wallpaperaccess.com/full/7996116.jpg"/>
+      <img height="300" width="750" src="https://wallpaperaccess.com/full/7996116.jpg"/>
     </td>
     <td>
       <h1>😎 Hey, Awesome People! 👋 Welcome to My Science Fictional World! 👽</h1>
-      🚀 Passionate : SOFTWARE DEVELOPER and TECH EXPLORER | 🔥 JAVA & ANDROID ENTHUSIAST
+      🚀 Passionate : SOFTWARE DEVELOPER and TECH EXPLORER 
+      <br/><br/>
+      🔥 JAVA & ANDROID ENTHUSIAST
       <br/><br/>
       😁 Fascinated Sci - Fi Creation Lover
       <br/><br/>
@@ -14,10 +16,16 @@
   </tr>
 </table>
 
-<div align="center">
-<h2>💫 ABOUT ME</h2>
-</div>
-I am a passionate and detail-oriented Software Engineer with a strong foundation in Java development, Android application design, and Firebase integration. With hands-on experience building scalable applications, I specialize in developing intuitive and efficient solutions that enhance user experience.<br><br>I have a keen interest in backend development, API integration, and cloud-based technologies, always striving to write clean, maintainable, and optimized code. My problem-solving mindset, combined with a deep understanding of data structures and algorithms, enables me to tackle complex technical challenges effectively.
+<table>
+ <tr>
+     <td>
+<h3 align="center">ABOUT ME 😋</h3>
+       </td>
+    <td>
+Crafting code like a digital superhero — I’m a Java-savvy Software Engineer with a flair for Android, Firebase, and scalable backend systems. Fueled by a passion for clean architecture and powerful problem-solving, I build apps that are as intuitive as they are impactful. Always ready to tackle the next big challenge, cape optional. 😌
+</td>
+  </tr>
+  </table>
 
 <div align="center">
   <h2>👨‍🎓 ACTIVELY SEEKING OPPORTUNITIES</h2>
