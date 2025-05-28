@@ -1,7 +1,7 @@
 <table>
   <tr>
      <td>
-      <img height="300" width="750" src="https://wallpaperaccess.com/full/7996116.jpg"/>
+      <img height="300" width="750" src="https://th.bing.com/th/id/OIP.jDLCrpIz4g9IP25E39cyqAHaFc?rs=1&pid=ImgDetMain"/>
     </td>
     <td>
       <h1>😎 Hey, Awesome People! 👋 Welcome to My Science Fictional World! 👽</h1>
@@ -28,7 +28,7 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
   </table>
 
 <div align="center">
-  <h2>👨‍🎓 ACTIVELY SEEKING OPPORTUNITIES</h2>
+  <h2>👨‍🎓 SEEKING OPPORTUNITIES TO SHOW MY SUPER POWERS 🦸</h2>
 
   <table width="80%">
   <tr>
@@ -111,7 +111,8 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 </div>
 
 <div align="center">
-  
+
+<!-- Programming Languages -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -120,17 +121,19 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://th.bing.com/th/id/R.a0fc95545bb93ab7f78ac1dda8e824a4?rik=9WiqGMwKGNEY0A&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjava-png-java-icon-png-500.png&ehk=xQg7keVeqckEI%2b%2bNyLS6CQoYhDBO4i5yO91hAlCZDa4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="40" height="40" alt="Java"/>
+          </td>
+          <td align="center">
+            <img src="https://th.bing.com/th/id/R.e7971315bca34b16fef72408f4a96519?rik=OGtImcxLQgIWcQ&pid=ImgRaw&r=0" width="40" height="40" alt="C++"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
-</div>
-<div align="center">
-
+<!-- Backend & Cloud Services -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -139,19 +142,30 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></td>
+          <td align="center">
+            <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="40" height="40" alt="Spring"/>
+          </td>
+          <td align="center">
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-amazon-web-services-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-service-brand-pack-logos-icons-6507782.png" width="40" height="40" alt="AWS"/>
+          </td>
+          <td align="center">
+            <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="40" height="40" alt="Firebase"/>
+          </td>
         </tr>
         <tr>
-          <td align="center" colspan="2"><img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></td>
+          <td align="center" colspan="2">
+            <img src="https://miro.medium.com/v2/resize:fit:374/1*pVQbzIYpH2aA2tpQAKQgKA.png" width="40" height="40" alt="Appwrite"/>
+          </td>
+          <td align="center">
+            <img src="https://www.pngmart.com/files/23/Oracle-Logo-PNG-Image.png" width="40" height="40" alt="Oracle"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<!-- Databases -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -160,14 +174,19 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://cdn.letsremotify.com/Mobile+App+dev/Technology+Stacks/Database/SQlite.png" width="40" height="40" alt="SQLite"/>
+          </td>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<!-- UI/UX & Design -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -176,14 +195,19 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://static.vecteezy.com/system/resources/previews/032/050/116/original/figma-3d-icon-free-png.png" width="40" height="40" alt="Figma"/>
+          </td>
+          <td align="center">
+            <img src="https://static.vecteezy.com/system/resources/previews/047/657/562/non_2x/canva-3d-icon-free-png.png" width="40" height="40" alt="Canva"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<!-- Version Control & DevOps -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -192,8 +216,12 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253809/git-icon-md.png" width="80" height="30" alt="Git"/>
+          </td>
+          <td align="center">
+            <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/original/github-logo-transparent-background-free-png.png" width="60" height="60" alt="GitHub"/>
+          </td>
         </tr>
       </table>
     </td>
@@ -202,19 +230,20 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 
 </div>
 
+
+</div>
+
 <div align="center">
 
-<h2>📊 GITHUB STATS  </h2>
+<p><img height="50" width="50" align="center" src="https://pngimg.com/uploads/github/github_PNG72.png"/> <h1>STATS</h1></p>
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Official&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-    </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DivyanshMusicOfficial&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DivyanshMusicOfficial&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -223,17 +252,6 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h2>✍️ DEV QUOTES</h2>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-    </td>
-  </tr>
-</table>
-</div>
-
+![](https://github-profile-trophy.vercel.app/?username=DivyanshMusicOfficial&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
