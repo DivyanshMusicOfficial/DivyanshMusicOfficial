@@ -79,7 +79,7 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 </table>
 </div>
 <td>
-       <div align="center">
+<div align="center">
   <img src="https://cdn.dribbble.com/users/664777/screenshots/4828251/2018-07-15_spidey_ditko_800x600.gif" height="275" width="425" alt="Coding GIF" />
 </div>
        </td>
@@ -264,5 +264,10 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=DivyanshMusicOfficial&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+<br></br>
+
+<div align="center">
+  <img src="https://66.media.tumblr.com/81f09edc18497740e04e05f43a90d377/tumblr_nez8cujpAr1rp0vkjo1_500.gif" height="275" width="75%" alt="Coding GIF" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
