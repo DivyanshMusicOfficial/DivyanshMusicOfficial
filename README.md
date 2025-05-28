@@ -31,42 +31,45 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
   <h2>👨‍🎓 SEEKING OPPORTUNITIES TO SHOW MY SUPER POWERS 🦸</h2>
 
   <table width="80%">
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1UVrYxb4QUUJnzURo7QgsBA2jrWZsNfjz/view?usp=sharing" target="_blank">
+          <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
+               alt="Resume" width="60" style="mix-blend-mode: difference; background: black; padding: 10px; border-radius: 10px;">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<table align="center">
   <tr>
-    <td align="center" width="25%">
-      <a href="https://drive.google.com/file/d/1UVrYxb4QUUJnzURo7QgsBA2jrWZsNfjz/view?usp=sharing" target="_blank">
-        <div style="background: black; display: inline-block; padding: 10px;">
-  <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
-       alt="Resume" width="60" 
-       style="mix-blend-mode: difference;">
-</div>
-
-</table>
-</div>
-
+    <td>
 <div align="center">
-<h2>🌐 SOCIAL PROFILES</h2>
+<h2>FOLLOW ME ... 😁 </h2>
   
 <table width="80%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" height="25%" width="25%">
       <a href="https://instagram.com/codewithdivyansh" target="_blank">
         <img src="https://clipartcraft.com/images/instagram-logo-png-transparent-background-svg-4.png" alt="Instagram" width="60"/>
       </a>
       <br/><b>Instagram</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" height="25%" width="25%">
       <a href="https://linkedin.com/in/divyansh-tiwari-100299288" target="_blank">
         <img src="https://static.vecteezy.com/system/resources/previews/022/498/377/original/3d-linkedin-logo-icon-isolated-on-transparent-background-free-png.png" alt="LinkedIn" width="60"/>
       </a>
       <br/><b>LinkedIn</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" height="25%" width="25%">
       <a href="https://x.com/codedivyansh" target="_blank">
         <img src="https://static.vecteezy.com/system/resources/previews/034/800/659/original/x-new-twitter-logo-free-png.png" alt="X" width="60"/>
       </a>
       <br/><b>X</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" height="25%" width="25%">
       <a href="mailto:iamdivyanshtiwari@gmail.com" target="_blank">
         <img src="https://clipartcraft.com/images/gmail-logo-circle.png" alt="Email" width="60"/>
       </a>
@@ -75,6 +78,14 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
   </tr>
 </table>
 </div>
+<td>
+       <div align="center">
+  <img src="https://cdn.dribbble.com/users/664777/screenshots/4828251/2018-07-15_spidey_ditko_800x600.gif" height="275" width="450" alt="Coding GIF" />
+</div>
+       </td>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <h2> 🚀 CODING PROFILES </h2>
@@ -83,27 +94,27 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
   <tr>
     <td align="center" width="25%">
       <a href="https://leetcode.com/u/DivyanshTiwariOfficial/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
+        <img src="https://img2018.cnblogs.com/blog/436938/201910/436938-20191003185001637-1257384603.png" alt="LeetCode" width="150"/>
       </a>
-      <br/><b>LeetCode</b>
+<!--       <br/><b>LeetCode</b> -->
     </td>
     <td align="center" width="25%">
       <a href="https://www.codechef.com/users/codexdev" target="_blank">
-        <img src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png" alt="CodeChef" width="120"/>
+        <img src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" alt="CodeChef" width="150"/>
       </a>
-      <br/><b>CodeChef</b>
+<!--       <br/><b>CodeChef</b> -->
     </td>
     <td align="center" width="25%">
       <a href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="120"/>
+        <img src="https://miro.medium.com/max/1000/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" width="150"/>
       </a>
-      <br/><b>HackerRank</b>
+<!--       <br/><b>HackerRank</b> -->
     </td>
     <td align="center" width="25%">
       <a href="https://www.geeksforgeeks.org/user/codewithdivyansh/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="120"/>
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo-300x75.png" alt="GeeksforGeeks" width="150"/>
       </a>
-      <br/><b>GeeksforGeeks</b>
+<!--       <br/><b>GeeksforGeeks</b> -->
     </td>
   </tr>
 </table>
@@ -235,7 +246,7 @@ Crafting code like a digital superhero — I’m a Java-savvy Software Engineer 
 
 <div align="center">
 
-<p><img height="50" width="50" align="center" src="https://pngimg.com/uploads/github/github_PNG72.png"/> <h1>STATS</h1></p>
+<h1>STATISTICS </h1>
 
 <table>
   <tr>
